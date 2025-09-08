@@ -26,9 +26,7 @@ At **PrimeThoughts**, we build pragmatic AI-driven solutions that enhance decisi
 
 ## 📬 Contact Us
 
-* General inquiries: **[contact@primethoughts.com](mailto:contact@primethoughts.com)**
-* Developer queries / contributions: **[dev@primethoughts.com](mailto:dev@primethoughts.com)**
-* Security issues: **[security@primethoughts.com](mailto:security@primethoughts.com)**
+* All inquiries/queries/issues: **[contact@primethoughts.com](mailto:contact@primethoughts.com)**
 
 ---
 
