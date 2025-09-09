@@ -16,7 +16,7 @@ At **PrimeThoughts**, we build pragmatic AI-driven solutions that enhance decisi
 
 ## 📂 Key Repositories
 
-* [pt-brandflow](https://github.com/primethoughts/pt-brandflow) – BrandFlow
+* [brandflow](https://github.com/primethoughts/brandflow) – BrandFlow
 
 *(We keep some repos private for product work, but open-source contributions live here!)*
 
