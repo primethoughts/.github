@@ -1,8 +1,6 @@
 
 # 🌌 PrimeThoughts
 
-**Reason, Act, and Learn from Prime Signals that Matter**
-
 At **PrimeThoughts**, we build pragmatic AI-driven solutions that enhance decision-making, quality, and efficiency. Our focus is on clarity, automation, and human-centric design — so teams can focus on what truly matters.
 
 ---
